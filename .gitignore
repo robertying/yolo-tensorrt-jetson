@@ -1,0 +1,4 @@
+build/
+data/*.cfg
+data/*.weights
+data/*.engine
